@@ -4,7 +4,7 @@
 
 Вэб сайтын урд талын код нь нээлттэй эх сурвалж тул орчуулгыг оновчтой болгоход тавтай морилно уу
 
-* [урд талын код](https://github.com/xxai-art/web)
+* [Frontend код](https://github.com/xxai-art/web)
 * [Бүхэл бүтэн сайтад зориулсан хэлний багц](https://github.com/xxai-art/web/tree/main/i18n)
 * [Нэвтрэх модулиудын хэлний багц](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Вэб сайтын олон хэл дээрх баримтжуулалт](https://github.com/xxai-doc)
