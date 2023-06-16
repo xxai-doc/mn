@@ -1,6 +1,6 @@
 # coffee_plus
 
-[@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , кофескриптийн синтакс дээр үндэслэн зарим функцуудыг нэмж, [coffee_plus-г](./coffee_plus.md) үзнэ үү.
+[@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , кофекриптийн синтакс дээр үндэслэн зарим функцийг нэмж, [coffee_plus-г](./coffee_plus.md) үзнэ үү.
 
 ## хувьсагчийг зарлах
 
